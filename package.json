@@ -1,0 +1,30 @@
+{
+  "name": "simples-webcrawler-olx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sostenesg7/simples-webcrawler-olx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sostenesg7/simples-webcrawler-olx/issues"
+  },
+  "homepage": "https://github.com/sostenesg7/simples-webcrawler-olx#readme",
+  "dependencies": {
+    "buffer": "^5.2.1",
+    "cheerio": "^1.0.0-rc.2",
+    "encoding": "^0.1.12",
+    "entities": "^1.1.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "iconv": "^2.3.1",
+    "mongodb": "^3.1.10",
+    "request": "^2.88.0"
+  }
+}
